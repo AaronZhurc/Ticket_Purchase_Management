@@ -1,4 +1,5 @@
 ### 机票购买管理程序
+*数据库概论课程设计*
 #### 开发环境
 Microsoft Windows 10, Eclipse 2019-12, JDK 8, Oracle XE 18c  
 #### 系统功能模块图
