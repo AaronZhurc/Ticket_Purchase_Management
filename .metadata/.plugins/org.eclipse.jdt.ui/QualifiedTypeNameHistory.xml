@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="dbc.DatabaseConn"/>
+<fullyQualifiedTypeName name="dbc.DBConnFactory"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="org.junit.After"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="vo.Passenger"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+<fullyQualifiedTypeName name="dao.IPassDAO"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="dao.ITicketDAO"/>
+<fullyQualifiedTypeName name="dao.DAOFactory"/>
+<fullyQualifiedTypeName name="vo.Ticket"/>
+<fullyQualifiedTypeName name="dao.ISeatDAO"/>
+<fullyQualifiedTypeName name="dao.IFlightDAO"/>
+<fullyQualifiedTypeName name="vo.Flight"/>
+<fullyQualifiedTypeName name="controller.User"/>
+<fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
+<fullyQualifiedTypeName name="vo.Seat"/>
+</qualifiedTypeNameHistroy>
